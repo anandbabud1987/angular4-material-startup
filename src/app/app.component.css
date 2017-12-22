@@ -1,0 +1,8 @@
+login-form:{
+  align-items: 'center';
+  flex: 1;
+  justify-content: 'center';
+  margin-left: 20;
+  margin-top: 20;
+  padding:20;
+}
